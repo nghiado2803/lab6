@@ -5,7 +5,7 @@ import java.sql.*;
 public class Bai31 {
     static String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     static String dburl = "jdbc:sqlserver://localhost;database=HRM;encrypt=false";
-    static String username = "nghia";
+    static String username = "vannghia";
     static String password = "123456";
 
     // Nạp driver SQL Server
